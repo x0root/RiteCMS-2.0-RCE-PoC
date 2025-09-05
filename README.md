@@ -1,5 +1,5 @@
 # RiteCMS-2.0-Remote-Code-Execution
-A Remote Code Execution python script to exploit RiteCMS 2.0
+A Remote Code Execution PoC to exploit RiteCMS 2.0
 ```
 python3 ritecms2.0-exploit.py -i <IP> -t <target-IP> -p <port>
 ```
