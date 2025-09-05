@@ -16,9 +16,3 @@ sudo apt install rlwrap
 
 ## NOTE
 If first run does not work, try to run again.
-
-## Screenshot
-![image](https://github.com/user-attachments/assets/6b860f49-f0d4-40b2-a41f-886146336e8c)
-
-
-Enjoy!
